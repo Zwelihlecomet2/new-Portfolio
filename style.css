@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/* Styles For Landing First-Page */
 .first-page{
     background-image: url(./assets/landscape.jpg);
     height: 100vh;
@@ -81,4 +82,14 @@
     opacity: 60%;
     transition-delay: 5ms;
     transition-duration: 1s;
+}
+
+
+/* Styles For the About me Section */
+.main-bottom .container{
+    border-radius: 10px;
+}
+
+body{
+    overflow-x: hidden;
 }
