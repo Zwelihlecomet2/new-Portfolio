@@ -26,7 +26,7 @@
     opacity: 60%;
   }
 
-.first-page .right-nav-bar span{
+.first-page .right-nav-bar span a{
     cursor: pointer;
     color: rgba(255, 255, 255, .5);
     border-bottom: .25rem solid transparent;
@@ -36,7 +36,7 @@
     color: #fff;
     border-bottom-color: #fff;
 }
-.right-nav-bar span:hover{
+.right-nav-bar span a:hover{
     border-bottom-color: rgba(255, 255, 255, .25);
     transition-delay: 5ms;
     transition-duration: 1s;
