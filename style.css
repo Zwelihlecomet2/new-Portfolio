@@ -61,8 +61,8 @@
 }
 
 .menu{
-    position: absolute;
-    top: 6%;
+    position: fixed;
+    top: 5%;
     left: 0%;
     color: white;
     z-index: 1;
@@ -98,13 +98,13 @@ body{
 
 
 .left-nav-bar p:last-child{
-    position: absolute;
-    top: 20%;
+    position: fixed;
+    top: 0%;
     right: 0;
 }
 
 .menu-bar span:first-child{
-    position: absolute;
-    top: 20%;
-    left: 0%;
+    position: fixed;
+    top: 0%;
+    left: 3%;
 }
