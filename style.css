@@ -62,8 +62,8 @@
 
 .menu{
     position: absolute;
-    top: 8%;
-    right: 0;
+    top: 6%;
+    left: 0%;
     color: white;
     z-index: 1;
     background-color: #cccc;
@@ -92,4 +92,19 @@
 
 body{
     overflow-x: hidden;
+}
+
+
+
+
+.left-nav-bar p:last-child{
+    position: absolute;
+    top: 20%;
+    right: 0;
+}
+
+.menu-bar span:first-child{
+    position: absolute;
+    top: 20%;
+    left: 0%;
 }
