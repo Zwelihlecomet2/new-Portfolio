@@ -12,7 +12,7 @@ window.addEventListener("scroll", () =>{
 });
 
 var typed = new Typed('#typed', {
-    strings: ['Frond-End Developer.', 'Computer Sciences,', 'and Applied Mathematics Major.'],
+    strings: ['Frond-End Developer,', 'Computer Sciences,', 'and Applied Mathematics Major.'],
     loop: true,
     loopCount: Infinity,
     showCursor: false,
